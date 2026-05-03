@@ -9,10 +9,16 @@ This repository contains basic bioinformatics projects implemented using Python.
 . Computes GC content
 
 2. DNA Sequence Analysis Tool
-. Takes DNA sequence as input
+. Takes a DNA sequence as input
 . Calculates sequence length
 . Finds nucleotide frequency
 . Computes GC content
 
+3. Enhanced DNA Analysis Tool
+. Advanced DNA analysis using Python
+. Generates RNA sequence (T → U)
+. Provides reverse and complement sequences
+. Includes input validation for correct DNA bases
+    
 # Technologies Used
 . Python
