@@ -19,6 +19,12 @@ This repository contains basic bioinformatics projects implemented using Python.
 . Generates RNA sequence (T → U)
 . Provides reverse and complement sequences
 . Includes input validation for correct DNA bases
+
+4. FASTA GC Content Analysis & Visualization
+. Reads DNA sequences from a FASTA file
+. Calculates GC content for each sequence
+. Visualizes GC content using matplotlib graphs
+. Uses Python for biological sequence analysis
     
 # Technologies Used
 . Python
